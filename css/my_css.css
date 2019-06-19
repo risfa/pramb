@@ -1,0 +1,63 @@
+.button_golden1{
+    color:#ffc925; 
+    border: 0.5px solid #ffc925; 
+    padding: 5px;  
+    cursor:pointer; 
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    margin-right: 5px;
+    margin: 0 auto;
+    text-transform: uppercase;
+}
+
+.frame-penyiar-prambors > .img-responsive{
+	border-radius: 180px !important; border:solid 5px #ffc925;
+}
+.frame-penyiar-prambors{
+	border-radius: 180px !important; 
+}
+.negative-nienety{
+	margin-top: -90px;
+}
+.slick-slider-wrapper{
+	background: radial-gradient(ellipse at center, rgba(253,243,47,1) 0%, rgba(255,201,37,1) 100%);
+}
+.ads1{
+	height: 190px; width: 100%; background: white; margin-top: 20px;
+	color:red;
+}
+.logo_wrapper > .scroll-to > .img-responsive{
+	margin-top: 8px; height: 70px;
+}
+.slick-slider-inner > .img-responsive{
+	height: 210px;
+}
+
+.audio{
+	width: 100%; visibility: hidden;
+}
+
+.my-footer-menu{
+	border-left: solid 2px #000; color: black;
+}
+
+.my-footer-menu > li{
+	list-style:  none;
+	font-weight: bold;
+	margin-top: -8px;
+	margin-left: -30px;
+}
+
+.my-footer-menu > li > strong{
+	font-size: 17px;
+}
+.my-footer-menu > li > font{
+	font-size: 25px;
+	margin-bottom: 20px;
+}
+.my-footer-menu > li > span{
+	position: absolute;
+	margin-top: -7px;
+	font-size: 17px;
+}

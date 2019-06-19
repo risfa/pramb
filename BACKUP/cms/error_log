@@ -1,0 +1,12 @@
+[05-Feb-2018 11:51:17 UTC] PHP Fatal error:  Call to a member function show_music_chart() on null in /home/dapps/public_html/JOKER/masimanetwork/cms/application/controllers/Method.php on line 42
+[05-Feb-2018 11:51:26 UTC] PHP Fatal error:  Call to a member function show_music_chart() on null in /home/dapps/public_html/JOKER/masimanetwork/cms/application/controllers/Method.php on line 42
+[05-Feb-2018 11:51:41 UTC] PHP Fatal error:  Call to a member function show_music_chart() on null in /home/dapps/public_html/JOKER/masimanetwork/cms/application/controllers/Method.php on line 42
+[05-Feb-2018 11:51:42 UTC] PHP Fatal error:  Call to a member function show_music_chart() on null in /home/dapps/public_html/JOKER/masimanetwork/cms/application/controllers/Method.php on line 42
+[14-Feb-2018 05:13:09 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:17 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:21 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:23 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:24 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:29 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:30 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
+[14-Feb-2018 05:13:30 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/dapps/public_html/JOKER/masimanetwork/cms/application/models/Book_model.php on line 41
